@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center
+}
+h1{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+.link{
+    color:aquamarine;
+    font-size: 16px;
+}
+.sectiontitle{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+.text{
+    font-size: 21px;
+    color: gray;
+}
+#footer{
+    text-align:right;
+    color:gray;
+}
+#phone{
+    margin-top: 20px;
+}
